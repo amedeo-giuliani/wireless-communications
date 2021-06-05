@@ -1,1 +1,1 @@
-# wireless-communications
+# Simulations of wireless communications concept
